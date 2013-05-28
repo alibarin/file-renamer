@@ -2,7 +2,7 @@
 #
 # Ali BARIN
 #
-# Examples:  
+# Example:  
 ##  
 ##  Sample file list: \example\a.txt, \example\b.txt, \example\c.txt,
 ##                      \example\d.txt, \example\e.jpg
